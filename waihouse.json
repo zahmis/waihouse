@@ -1,0 +1,26 @@
+{
+  "deviceList": [
+    {
+      "deviceId": "6055F931D94A",
+      "deviceName": "スマート電球 D94A",
+      "deviceType": "Color Bulb",
+      "enableCloudService": true,
+      "hubDeviceId": "000000000000"
+    },
+    {
+      "deviceId": "6055F93A7BB6",
+      "deviceName": "スマート電球 7BB6",
+      "deviceType": "Color Bulb",
+      "enableCloudService": true,
+      "hubDeviceId": "000000000000"
+    },
+    {
+      "deviceId": "A848FAE383EE",
+      "deviceName": "Plug 83EE",
+      "deviceType": "Plug",
+      "enableCloudService": true,
+      "hubDeviceId": "000000000000"
+    }
+  ],
+  "infraredRemoteList": []
+}
