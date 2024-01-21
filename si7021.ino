@@ -59,7 +59,7 @@ Adafruit_Si7021 si7021 = Adafruit_Si7021(); // インスタンスを作成
 // }
 
 void setup() {
-　Serial.begin(115200);
+  Serial.begin(115200);
   while(!Serial);
 
   Wifi.begin(ssid, password);
